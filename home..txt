@@ -17,7 +17,7 @@ height="131" width="200" align="left" alt="Donald Trump on social media"/>
 <h1 style="position: relative; top: 30px">Facebook as a Political Knowledge Base</h1></div>
 <div id="menu">
 <ul>
-<li><a href="home.html">Home</a></li>
+<li><a href="index.html">Home</a></li>
 <li><a href="politicalmisinformation.html">Political Misinformation</a></li>
 <li><a href="benefitsofpoliticalmedia.html">Benefits of Political Media</a></li>
 <li><a href="conclusion.html">Conclusion</a></li>
