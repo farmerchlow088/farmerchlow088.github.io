@@ -1,9 +1,0 @@
-<div id="container">
-<div id="header"><img src="donaldtrump.jpg"
-height="130" width="100" align="right" alt="Donald Trump with iPhone"/>
-<h1 style="position: relative; top: 9px; color: white"> Is Facebook a reliable knowledge base for political information?</h1></div>
-<div id="menu">
-<ul>
-li><a href="reasoning.html">Reasoning Behind Political Misinformation </a></li>
-<li><a href="publicresponse.html">Public Response to Misinformation</a></li>
-</ul>
